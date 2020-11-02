@@ -1,0 +1,46 @@
+
+body{
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  font-weight: bold;
+  */*background-color: rgb(197, 153, 196);*/*
+}
+.blocktext{
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
+}
+.center{
+  margin-left: 680px;
+  width: 15em;
+  padding: 20px;
+  box-shadow: 0px 20px 0px 0px gray;
+}
+h1{
+  margin-left: 35%;
+  width: 20em;
+  font-size: 50px;
+  color: red;
+  text-decoration: underline;
+  text-transform:uppercase;
+  text-shadow: 3px 3px 4px gray;
+}
+p{
+  line-height: 1.5em;
+}
+a{
+  margin: 30%;
+}
+a :link{
+  color: purple;
+}
+a :visited{
+  color: pink;
+}
+a :hover{
+  color: aqua;
+}
+a :active{
+  color: cornflowerblue;
+}
